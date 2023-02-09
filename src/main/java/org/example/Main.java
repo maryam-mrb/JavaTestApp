@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("New changes for Testing Travis!");
        int var = method(4);
+        System.out.println("New changes for Testing Travis2!");
     }
 
     public static int method(int a){
