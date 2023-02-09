@@ -8,6 +8,7 @@ public class Main {
         System.out.println("New changes for Testing Travis2!");
         System.out.println("New changes for Testing Travis3!");
         System.out.println("New changes for Testing Travis4!");
+        System.out.println("New changes for Testing Travis5!");
     }
 
     public static int method(int a){
